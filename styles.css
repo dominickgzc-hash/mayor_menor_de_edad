@@ -36,11 +36,11 @@ button:hover {
 
 /* Mensajes */
 .mayor {
-  color: red;
+  color: goldenrod;
   font-weight: bold;
 }
 
 .menor {
-  color: goldenrod;
+  color: red;
   font-weight: bold;
 }
